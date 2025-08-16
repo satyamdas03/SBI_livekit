@@ -1,0 +1,794 @@
+
+
+
+
+
+
+
+
+Reserve Bank of India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                        
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT LANGUAGE
+
+
+ASSAMESE
+
+
+BENGALI
+
+
+ENGLISH
+
+
+GUJARATI
+
+
+HINDI
+
+
+KANNADA
+
+
+MALAYALAM
+
+
+MARATHI
+
+
+ODIA
+
+
+PUNJABI
+
+
+TAMIL
+
+
+TELUGU
+
+
+URDU
+
+
+
+
+
+
+
+
+ 
+                        
+                    
+
+
+
+
+
+
+
+
+
+
+SITE MAP
+  
+  
+                            
+CONTACT US
+  
+  
+                            
+DISCLAIMER
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+About Us
+    
+            
+Useful Information
+    
+
+            
+FAQs
+    
+
+            
+Financial Education
+    
+
+            
+Complaints
+  
+
+            
+Important Websites
+  
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Banker and Debt Manager to Government
+
+
+ 
+Commercial Banking
+
+
+ 
+Co-operative Banking
+
+
+ 
+Non-banking
+
+
+ 
+Financial Inclusion and Development
+
+
+ 
+Financial Market
+
+
+ 
+Foreign Exchange Management
+
+
+ 
+Consumer Education and Protection
+
+
+ 
+Issuer of Currency
+
+
+ 
+Payment and Settlement System
+
+
+ 
+Research
+
+
+ 
+Others
+
+
+ 
+Deposit Insurance and Credit Guarantee Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ >> 
+
+																FAQs
+ - Display
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Date: 
+ 31/10/2022
+ Real Time Gross Settlement System (RTGS) System
+
+
+
+
+(Updated  as on October 31, 2022)
+
+
+1. What does RTGS stand for?
+
+
+Ans. The acronym  'RTGS' stands for Real Time Gross Settlement, which can be explained as a  system where there is continuous and real-time settlement of fund-transfers,  individually on a transaction-by-transaction basis (without netting). 'Real  Time' means the processing of instructions at the time they are received;  'Gross Settlement' means that the settlement of funds transfer instructions  occurs individually.
+
+
+2. Are the payments under RTGS final  and irrevocable?
+
+
+Considering that  the funds settlement takes place in the books of the Reserve Bank of India  (RBI), the payments are final and irrevocable.
+
+
+3. What are the benefits of using RTGS?
+
+
+Ans. RTGS offers  many advantages for funds transfer:
+
+
+
+
+
+
+It is a safe and secure system for  funds transfer.
+
+
+
+
+
+
+RTGS transactions / transfers have  no amount cap set by RBI.
+
+
+
+
+
+
+The system is available on all days  on 24x7x365 basis. There is real time transfer of funds to the beneficiary  account.
+
+
+
+
+
+
+The remitter need not use a physical  cheque or a demand draft.
+
+
+
+
+
+
+The beneficiary need not visit a  bank branch for depositing the paper instruments.
+
+
+
+
+
+
+The beneficiary need not be apprehensive  about loss / theft of physical instruments or the likelihood of fraudulent  encashment thereof.
+
+
+
+
+
+
+Remitter can initiate the  remittances from his / her home / place of work using internet banking, if his  / her bank offers such service.
+
+
+
+
+
+
+The transaction charges have been  capped by RBI.
+
+
+
+
+
+
+The transaction has legal backing.
+
+
+
+
+
+
+4. How is the  processing of RTGS different from that of National Electronic Funds Transfer  (NEFT) System?
+
+
+Ans. NEFT is an  electronic fund transfer system in which the transactions received up to a  particular time are processed in batches. Contrary to this, in RTGS, the  transactions are processed continuously on a transaction-by-transaction basis  throughout the day.
+
+
+5. Is RTGS a 24x7 system or are  there some timings applicable?
+
+
+Ans. RTGS is available 24x7x365 with effect from  December 14, 2020.
+
+
+6. Is there any minimum / maximum amount  stipulation for RTGS transactions?
+
+
+Ans. The RTGS  system is primarily meant for large value transactions. The minimum amount to  be remitted through RTGS is ₹ 2,00,000/- with no upper or maximum ceiling.
+
+
+7. What about processing charges /  service charges for RTGS transactions?
+
+
+Ans. With effect  from July 01, 2019, RBI has waived the processing charges levied by it for RTGS  transactions. Banks may pass on the benefit to its customers.
+
+
+With a view to  rationalise the service charges levied by banks for offering funds transfer  through RTGS system, a broad framework of charges has been mandated as under:
+
+
+a) Inward transactions – Free, no  charge to be levied.
+
+
+b) Outward  transactions – ₹ 2,00,000/- to 5,00,000/-: not exceeding ₹ 25/- (exclusive of  tax, if any)
+
+
+Above ₹ 5,00,000/-:  not exceeding ₹ 50 (exclusive of tax, if any)
+
+
+Banks may decide  to charge a lower rate but cannot charge more than the rates prescribed by RBI. 
+
+
+8. What is the essential  information that the remitting customer needs to furnish to the bank for making  a remittance?
+
+
+Ans. The  remitting customer has to furnish the following information to a bank for  initiating an RTGS remittance:
+
+
+
+
+
+
+Amount to be remitted
+
+
+
+
+
+
+The account number to be debited
+
+
+
+
+
+
+Name of the beneficiary bank and branch
+
+
+
+
+
+
+The IFSC number of the receiving branch
+
+
+
+
+
+
+Name of the beneficiary customer
+
+
+
+
+
+
+Account number of the beneficiary customer
+
+
+
+
+
+
+Sender to receiver information, if any
+
+
+
+
+
+
+Sender and Beneficiary Legal Entity Identifier (for       eligible transactions)
+
+
+
+
+
+
+9. How would one know the IFSC  number of the receiving branch?
+
+
+Ans. The IFSC  number can be obtained by the remitter (customer) from his / her bank branch.  Alternatively, it is available on the cheque leaf of the beneficiary. This code  number / bank branch information can be communicated by the beneficiary to the  remitting customer. The list of IFSCs is also available on the RBI website at  the link 
+https://rbi.org.in/Scripts/Bs_viewRTGS.aspx?Category=5
+. The list is updated on a fortnightly  basis.
+
+
+10. Do all bank  branches in India provide RTGS service? How can a remitting customer know  whether the bank branch of the beneficiary accepts remittance through RTGS?
+
+
+Ans. For a funds  transfer to go through RTGS, both the sending bank branch and the receiving  bank branch need to be RTGS enabled. Presently, there are more than 1,60,000  RTGS enabled bank branches, the list of which is available on the RBI website  at the link
+ https://rbi.org.in/Scripts/Bs_viewRTGS.aspx?Category=5
+. The list is updated on a fortnightly  basis.
+
+
+11. What care should be taken while  originating an RTGS transaction?
+
+
+Ans. The following  should be ensured while putting through a funds transfer transaction using RTGS  –
+
+
+
+
+
+
+Originating and destination bank  branches are part of the RTGS network.
+
+
+
+
+
+
+Beneficiary details such as  beneficiary name, account number and account type, name and IFSC of the  beneficiary bank branch should be available with the remitter.
+
+
+
+
+
+
+Extreme care should be exercised in  providing the account number of the beneficiary, as, during processing RTGS  transactions, the credit will be given to the customer’s account solely based  on the account number provided in the RTGS remittance instruction / message.
+
+
+
+
+
+
+12. In RTGS, why  is credit to the beneficiary given solely based on account number?
+
+
+Ans. Transactions  in RTGS happen in real time and it is not possible to match name and account  number before affording credit to the beneficiary. Since name in the Indian  context is spelt differently and would not really match with that available  with the beneficiary bank, the process of affording credit solely based on the  account number of the beneficiary has been enabled.
+
+
+Our Circular Ref.  No. DPSS (CO) EPPD No. / 863 / 04.03.01 / 2010-11  dated October 14, 2010 on ‘Electronic payment  products – Processing inward transactions based solely on account number  information’ (available at 
+https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=6043&Mode=0
+)  may be referred to for further details. 
+
+
+13. What is the  time taken for effecting funds transfer from one account to another through  RTGS?
+
+
+Ans. Under normal  circumstances, the beneficiary branches are expected to receive the funds in  real time as soon as funds are transferred by the remitting bank. The  beneficiary bank must credit the beneficiary's account within 30 minutes of  receiving the funds transfer message.
+
+
+14. Can a remitting customer  initiate a transaction for a future date?
+
+
+Ans. No, the RTGS system does not accept future  value dated transactions.
+
+
+15. Can a  transaction be originated to draw (receive) funds from another account?
+
+
+Ans. No. RTGS is  a credit-push system i.e., transactions can be originated by the payer /  remitter / sender only to pay / transfer / remit funds to a beneficiary.
+
+
+16. Can an RTGS  transaction be tracked? Would the remitting customer receive an acknowledgement  of money credited to the beneficiary's account?
+
+
+Ans. While the  customers do not have the facility to track the transaction, the RBI has  implemented the feature of positive confirmation in an RTGS transaction. Under  this, the remitting bank would receive a message from RBI (through the  beneficiary bank) that the money has been credited to the beneficiary bank /  customer account. Based on this, the remitting bank should advise the remitting  customer that money has been credited to the receiving bank’s beneficiary  account.
+
+
+17. Would the  remitting customer get back the money if it is not credited to the  beneficiary's account? Is there any time frame prescribed for it?
+
+
+Ans. Yes, if it  is not possible to credit the funds to the beneficiary customer’s account for  any reason, the funds received by the RTGS member bank will be returned to the  originating bank within one hour of receipt of the payment at the Payment  Interface (PI) or before the end of the RTGS Business Day, whichever is earlier.  Once the money is received back by the remitting bank, the original debit entry  in the customer's account needs to be reversed.
+
+
+18. Is a customer  eligible to get compensation for delay in returning the payment?
+
+
+Ans. In case of  any delay in returning the failed payment, the originating customer is eligible  to receive compensation at current repo rate plus 2%.
+
+
+19. Whom can a  customer contact, in case of non-credit or delay in credit to the beneficiary  account?
+
+
+Ans. The customer  can contact his / her bank / branch if there is an issue of delay / non-credit  to the beneficiary account. The details of Customer Facilitation Centre of  member banks are also available on the website of RBI at 
+https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2070
+. 
+
+
+20. What is UTR number?
+
+
+Ans. Unique  Transaction Reference (UTR) number is a 22-character code used to uniquely  identify a transaction in RTGS system.
+
+
+21. What is the  Help Desk / Contact point at the RBI?
+
+
+Ans. You may  approach RTGS Help Desk / Contact point of the RBI at 
+rtgsmumbai@rbi.org.in
+.
+
+
+22. Whom should I approach for  raising dispute/complaint related to RTGS transaction?
+
+
+Ans. You may approach grievance  redressal cell of your bank with details of the disputed transaction. In case  your grievance is not resolved within 30 days, you may make a complaint under “The  Reserve Bank-Integrated Ombudsman Scheme (RB-IOS 2021)”. The RB-IOS 2021  provides a single reference point for customers to file complaints against the  RBI regulated entities specified therein. The RB-IOS, 2021 is available at the  following path on the RBI website: 
+https://rbidocs.rbi.org.in/rdocs/content/pdfs/RBIOS2021_121121.pdf
+.
+
+
+23.  How can I file complaint under the RB-IOS 2021?
+
+
+Ans. Complaints can be filed  online on 
+https://cms.rbi.org.in
+, or  through the dedicated 
+e-mail
+   or sent in physical mode to the ‘Centralised Receipt and Processing Centre’ set  up at RBI, 4th Floor, Sector 17, Chandigarh – 160 017 in the format given at the following path - 
+https://rbidocs.rbi.org.in/rdocs/content/pdfs/RBIOS2021_121121_A.pdf
+.  A toll-free number – 14448 (9:30 am to 5:15 pm) – is also available for  customers to seek assistance in filing complaints and information on grievance  redressal, with multi-lingual support. 
+
+
+24. What is Legal Entity Identifier and how is it  relevant in case of RTGS transactions?
+
+
+ Ans. The  FAQs on “Legal Entity Identifier (LEI) for Large Value Transactions in  Centralised Payment Systems” on the RBI website at 
+https://www.rbi.org.in/Scripts/FAQView.aspx?Id=140
+ can be referred to.
+
+
+These  FAQs are issued by the Reserve Bank of India for information and general  guidance purposes only. The Bank will not be held responsible for actions taken  and/or decisions made on the basis of the same. For clarifications or  interpretations, if any, one may be guided by the relevant circulars and notifications  issued from time to time by the Bank.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  © Reserve Bank of India. All Rights Reserved.
+
+
+Best viewed in 1024x768 resolution in IE 5 and above.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

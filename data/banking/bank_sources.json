@@ -1,0 +1,47 @@
+[
+    {
+        "url": "https://sbi.co.in/web/personal-banking/information-services/kyc-guidelines/revised-service-charges",
+        "kind": "html",
+        "filename": "sbi_revised_service_charges.txt"
+    },
+    {
+        "url": "https://sbi.co.in/web/interest-rates/savings-bank-deposits",
+        "kind": "html",
+        "filename": "sbi_savings_interest.txt"
+    },
+    {
+        "url": "https://sbi.co.in/documents/16012/76239/Final%2BDraft%2BPublic%2BNotice%2BRevision%2Bof%2BService%2BCharges%2Bon%2BATM%2Btransactions%2B%2BOn-us%2Band%2BOff%2BUs%2Btxns.pdf",
+        "kind": "pdf",
+        "filename": "sbi_atm_charges_2025.pdf"
+    },
+    {
+        "url": "https://sbi.co.in/documents/16012/22770835/101024-Revision%2Bin%2BService%2BCharges%2Bas%2Bon%2B30.09.2024.pdf",
+        "kind": "pdf",
+        "filename": "sbi_service_charges_2024.pdf"
+    },
+    {
+        "url": "https://www.rbi.org.in/commonman/English/scripts/FAQs.aspx?Id=274",
+        "kind": "html",
+        "filename": "rbi_neft_faq.txt"
+    },
+    {
+        "url": "https://www.rbi.org.in/commonman/english/Scripts/FAQs.aspx?Id=275",
+        "kind": "html",
+        "filename": "rbi_rtgs_faq.txt"
+    },
+    {
+        "url": "https://www.rbi.org.in/CommonPerson/english/scripts/notification.aspx?id=2607",
+        "kind": "html",
+        "filename": "rbi_kyc_master_direction.txt"
+    },
+    {
+        "url": "https://www.rbi.org.in/commonperson/english/scripts/FAQs.aspx?Id=3407",
+        "kind": "html",
+        "filename": "rbi_integrated_ombudsman_faq.txt"
+    },
+    {
+        "url": "https://www.npci.org.in/what-we-do/upi/faqs",
+        "kind": "html",
+        "filename": "npci_upi_faqs.txt"
+    }
+]
