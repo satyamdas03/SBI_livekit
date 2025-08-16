@@ -93,3 +93,4 @@ class BankingKB:
         idx.save_local(str(INDEX_DIR))
         self._index = idx
         return idx
+# test
