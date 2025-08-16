@@ -1,0 +1,9 @@
+{
+    "name": "My outbound trunk",
+    "address": "22235982363989470.zt.plivo.com",
+    "numbers": [
+        "+918035317047"
+    ],
+    "auth_username": "satyam",
+    "auth_password": "Thomasarthurpolly08#"
+}
