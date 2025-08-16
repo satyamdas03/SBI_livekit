@@ -6,13 +6,13 @@
 
 
 
-Reserve Bank of India
 
 
 
 
 
 
+Frequently Asked Questions - Reserve Bank of India
 
 
 
@@ -63,6 +63,7 @@ Reserve Bank of India
 
 
 
+Skip to main content 
 
 
 
@@ -79,13 +80,11 @@ Reserve Bank of India
 
 
 
- 
-                        
-                    
 
 
 
 
+Selected
 
 
 
@@ -94,46 +93,33 @@ Reserve Bank of India
 
 
 
-SELECT LANGUAGE
 
 
-ASSAMESE
 
 
-BENGALI
 
 
-ENGLISH
 
 
-GUJARATI
 
 
-HINDI
 
 
-KANNADA
 
 
-MALAYALAM
 
 
-MARATHI
 
 
-ODIA
+Selected
 
 
-PUNJABI
 
 
-TAMIL
 
 
-TELUGU
 
 
-URDU
 
 
 
@@ -142,11 +128,11 @@ URDU
 
 
 
- 
-                        
-                    
+
+                    Language
 
 
+हिंदी
 
 
 
@@ -155,16 +141,22 @@ URDU
 
 
 
-SITE MAP
-  
-  
-                            
-CONTACT US
-  
-  
-                            
-DISCLAIMER
-  
+
+
+
+
+
+
+
+
+
+
+Click here to 
+Visit the RBI’s new website
+
+
+
+
 
 
 
@@ -186,29 +178,13 @@ DISCLAIMER
 
 
 
-               
-About Us
-    
-            
-Useful Information
-    
+            Search the Website
+
+
+
+
 
-            
-FAQs
-    
-
-            
-Financial Education
-    
-
-            
-Complaints
-  
-
-            
-Important Websites
-  
-            
+            Search
 
 
 
@@ -217,74 +193,6 @@ Important Websites
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Banker and Debt Manager to Government
-
-
- 
-Commercial Banking
-
-
- 
-Co-operative Banking
-
-
- 
-Non-banking
-
-
- 
-Financial Inclusion and Development
-
-
- 
-Financial Market
-
-
- 
-Foreign Exchange Management
-
-
- 
-Consumer Education and Protection
-
-
- 
-Issuer of Currency
-
-
- 
-Payment and Settlement System
-
-
- 
-Research
-
-
- 
-Others
-
-
- 
-Deposit Insurance and Credit Guarantee Corporation
 
 
 
@@ -308,10 +216,168 @@ Deposit Insurance and Credit Guarantee Corporation
 
 
 Home
- >> 
-
-																FAQs
- - Display
+
+
+About Us
+
+
+Notifications
+
+
+Press Releases
+
+
+Speeches & Media Interactions
+
+
+
+
+Speeches
+
+
+Media Interactions
+
+
+Memorial Lectures
+
+
+
+
+
+
+Publications 
+
+
+
+
+Biennial
+
+
+Annual
+
+
+Half-Yearly
+
+
+Quarterly
+
+
+Bi-monthly
+
+
+Monthly
+
+
+Weekly
+
+
+Occasional
+
+
+Reports
+
+
+Working Papers
+
+
+
+
+
+
+Legal Framework 
+
+
+
+
+Act 
+
+
+Rules 
+
+
+Regulations 
+
+
+Schemes 
+
+
+
+
+
+
+Research 
+
+
+
+
+External Research Schemes
+
+
+RBI Occasional Papers
+
+
+Working Papers
+
+
+RBI Bulletin
+
+
+History
+
+
+DRG Studies
+
+
+KLEMS
+
+
+State Statistics and Finances
+
+
+
+
+
+
+Statistics 
+
+
+
+
+Data Releases
+
+
+Database on Indian Economy
+
+
+Public Debt Statistics
+
+
+
+
+
+
+Regulatory Reporting
+
+
+
+
+List of Returns
+
+
+Data Definition
+
+
+
+
+
+
+Validation rules/ Taxonomy
+
+
+List of RBI Reporting Portals
+
+
+FAQs of RBI Reporting Portals
 
 
 
@@ -344,6 +410,10 @@ Home
 
 
 
+Home
+
+
+FAQ
 
 
 
@@ -358,9 +428,44 @@ Home
 
 
 
- Date: 
- 31/10/2022
- Real Time Gross Settlement System (RTGS) System
+
+
+ Banker and Debt Manager to Government 
+ Commercial Banking  
+ Co-operative Banking  
+ Non-banking  
+ Financial Inclusion and Development  
+ Financial Market  
+ Foreign Exchange Management  
+ Consumer Education and Protection  
+ Issuer of Currency  
+ Payment and Settlement System  
+ Research  
+ Others  
+ Deposit Insurance and Credit Guarantee Corporation  
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+ 
+ Date : 
+Oct 31, 2022
+Real Time Gross Settlement System (RTGS) System
 
 
 
@@ -717,6 +822,11 @@ These  FAQs are issued by the Reserve Bank of India for information and general 
 
 
 
+Top
+
+
+
+
 
 
 
@@ -734,7 +844,174 @@ Top
 
 
 
- 
+
+
+
+
+
+
+
+
+More
+ Links 
+
+
+
+
+
+
+Bank Holidays
+
+
+Banking Glossary
+
+
+Citizen's Charter
+
+
+Complaints
+
+
+Contact Us
+
+
+COVID-19 Measures
+
+
+E-LMS
+
+
+Events
+
+
+FAQs
+
+
+Financial Education
+
+
+Forms
+
+
+IFSC/MICR Codes
+
+
+Important Websites
+
+
+Opportunities
+@
+RBI
+
+
+RBI Clarifications
+
+
+RBI Kehta Hai
+
+
+RBI's Core Purpose, Values and Vision 
+
+
+Right to Information Act
+
+
+Tenders
+
+
+
+
+
+
+
+
+
+
+
+
+Follow
+ RBI
+
+
+
+
+
+
+RSS
+
+
+
+
+
+
+
+
+Twitter
+              
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+Instagram
+              
+
+
+
+
+Facebook
+
+
+
+
+
+
+LinkedIn
+              
+
+
+
+
+
+   	 Download Mobile App
+
+
+Play Store
+
+
+App Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Reserve Bank of India. All Rights Reserved.
+
+
+Sitemap
+ 
+|
+ 
+Disclaimer
 
 
 
@@ -761,16 +1038,6 @@ Top
 
 
 
-
-
-
-
-
-
-  © Reserve Bank of India. All Rights Reserved.
-
-
-Best viewed in 1024x768 resolution in IE 5 and above.  
 
 
 

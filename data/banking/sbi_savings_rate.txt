@@ -6,7 +6,7 @@
 
 
 
-Revised Service Charges - Personal Banking
+Savings Bank Deposits - Interest Rates
 
 
 
@@ -75,59 +75,6 @@ Revised Service Charges - Personal Banking
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Disclaimer
-
-
-
-
-
-
-
-
-The contents have been translated from English version using indigenously developed AI capabilities (Bhashini).
-In case of any ambiguity or doubt, users are advised to refer to the English contents for clarity.
-The information, material, advice, suggestions, illustrations, notifications, circulars etc. are collectively stated "the content" in this website.
-If the said content contains any mistakes, omissions, inaccuracies and typographical errors, etc. SBI assumes no responsibility thereof.
-SBI makes no warranty or representation regarding any content provided through this website and disclaims its liabilities in respect thereof.
-Any action on your part on the basis of the said content is at your own risk and responsibility. SBI reserves its right to correct any part of the said content at any time as and when required at its sole
-discretion.
-The content of this website shall not be displayed or printed in any form in part or whole without the prior written approval of SBI (State Bank of India).
-
-
-As the translated content here is AI generated, we request for suggestions for improvement of the content.
-
-
- Link for providing suggestions: 
-https://bhashini.gov.in/bhashadaan/en/home
-
-
-
-
-
-
-I Agree
 
 
 
@@ -3235,7 +3182,7 @@ ATM Locator
 
 
 
-Revised Service Charges - Personal Banking
+Savings Bank Deposits - Interest Rates
 
 
 
@@ -3258,7 +3205,7 @@ Revised Service Charges - Personal Banking
 
 
 
-Revised Service Charges
+Savings Bank Deposits
 
 
 
@@ -3315,22 +3262,35 @@ Revised Service Charges
 
 
 
-Personal Banking
-FX-Retail
-KYC Guidelines
-Government Business
+Interest Rates
+Deposit Rates
+Loan Schemes - Interest Rates
+SBI NRI Services - Interest Rates
 Show More
  
-Engagement of Retired Officer / Employees
-FCRA Amendment 2020
-Nomination Facility
-Positive Pay System
-Unclaimed Deposit Accounts Claim
-Bharat Aadhaar Seeding Enabler
-Process of Reactivation of Inoperative Accounts
-Revised Service Charges
-Waiver of ADWM Cash Deposit charges
-Bank Calendar Holiday List
+Marginal Cost of fund based lending rate
+Reinvestment Plan
+Interest Rate For Borrowers Other Than P Segment - Commercial Loans
+SME Interest Range
+SMEBU 10 years interest rate
+Interest Rates On Pre Shipment Credit And Export Bill Discounting in Foreign Currency Loans
+Interest Rates On FCNB Loans To Exporters Corporates
+Processing Fees
+Penal Interest & Other Charges
+MCLR Historical Data
+Benchmark Prime Lending Rate - Historical Data
+Base Rate - Historical Data
+Old Interest Rates - Last 10 Years
+SME Segment
+Agricultural Segment
+Savings Bank Deposits
+Retail Domestic term deposits
+Domestic Bulk Term Deposits
+External Benchmark based Lending Rate
+EBLR-Historical Data
+Sarvottam
+Small Savings Schemes Interest rates
+Test MCLR
 
 
 
@@ -3365,7 +3325,7 @@ Bank Calendar Holiday List
 
 
 
-Revised Service Charges
+Savings Bank Deposits
 
 
 
@@ -3380,7 +3340,7 @@ Revised Service Charges
 
 
 
-Service Charges And Fees
+Savings Bank Deposits
 
 
 
@@ -3395,9 +3355,12 @@ Service Charges And Fees
 
 
 
+Interest Rates on Savings Bank Deposits
 
 
-Service Charges And Fees
+Applicable Interest Rates on Savings Bank Deposits w.e.f 15
+th
+ June 2025
 
 
 
@@ -3408,75 +3371,33 @@ Service Charges And Fees
 
 
 
-WAIVER OF ATM/ADWM TRANSACTION DECLINE CHARGES FOR BSBD AND KCC ACCOUNTS W.E.F. 1ST MAY 2025.
+Savings Bank
 
 
+Interest Rate (w.e.f. 15.06.2025)
 
 
 
 
-Safe Custody charges on Safe Keeping of title deeds for Personal Segment loan.
 
 
+Across all account Balances
 
 
-Revised Transaction Charges at Business Correspondent (FI) Channel
+2.50% p.a.
 
 
-Service Charges Updated As On 30.09.2024
 
 
-Revised Public Notice on Revision in Service charges of ATM Transactions effective from 01.02.2025
 
 
 
 
-Penalty for non-maintenance  of Average Monthly Balance in Savings Bank Accounts has been waived off w.e.f 11.03.2020.
 
 
 
 
-Advance Related Service Charges (Inland) and Penal Provisions
-
-
-
-
-Advance Related Service Charges (Inland)_w.e.f. 01.06.2025
-
-
-POLICY ON PENAL CHARGES IN LOANS AND ADVANCES_w.e.f. 01.04.2025
-
-
-
-
-Penal Charges for breach of Proprietary Trading Limit in case of Financing to Stock Brokers
-
-
-Advances Related Service Charges (Inland) and Penal Provisions w.e.f 01.04.2023
-
-
-
-
-
-
-Foreign Exchange Related Services Charges Structure
-
-
-
-
-Revised Foreign Exchange Transactions Related Service Charges (w.e.f. 01.05.2025)
-
-
-
-
-Basic Service Charges: Safe Deposit Locker / Safe Custody
-
-
-
-
-Safe deposit locker/safe custody
-
-
+ 
 
 
 
@@ -3500,7 +3421,7 @@ Safe deposit locker/safe custody
 
 
 
-Last Updated On : Saturday, 16-08-2025
+Last Updated On : Saturday, 14-06-2025
 
 
 

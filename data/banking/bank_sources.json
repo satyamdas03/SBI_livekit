@@ -43,5 +43,50 @@
         "url": "https://www.npci.org.in/what-we-do/upi/faqs",
         "kind": "html",
         "filename": "npci_upi_faqs.txt"
+    },
+    {
+        "url": "https://sbi.co.in/web/interest-rates/deposit-rates/retail-domestic-term-deposits",
+        "kind": "html",
+        "filename": "sbi_retail_td_rates.html"
+    },
+    {
+        "url": "https://sbi.co.in/web/interest-rates/savings-bank-deposits",
+        "kind": "html",
+        "filename": "sbi_savings_rate.html"
+    },
+    {
+        "url": "https://sbi.co.in/documents/16012/76239/Final%2BDraft%2BPublic%2BNotice%2BRevision%2Bof%2BService%2BCharges%2Bon%2BATM%2Btransactions%2B%2BOn-us%2Band%2BOff%2BUs%2Btxns.pdf",
+        "kind": "pdf",
+        "filename": "sbi_atm_charges_2025.pdf"
+    },
+    {
+        "url": "https://sbi.co.in/documents/16012/76239/Revised%2BPublic%2BNotice%2BATM%2Btransaction%2Bcharges.pdf",
+        "kind": "pdf",
+        "filename": "sbi_atm_revised_public_notice.pdf"
+    },
+    {
+        "url": "https://sbi.co.in/web/faq-s/faq-rtgs-neft",
+        "kind": "html",
+        "filename": "sbi_neft_rtgs_faq.html"
+    },
+    {
+        "url": "https://sbi.co.in/documents/16012/22770835/02052025_Advances%2BRelated%2BService%2BCharges%2Bw.e.f.%2B01.06.2025.pdf",
+        "kind": "pdf",
+        "filename": "sbi_advances_service_charges_2025.pdf"
+    },
+    {
+        "url": "https://rbi.org.in/Scripts/FAQView.aspx?Id=24",
+        "kind": "html",
+        "filename": "rbi_neft_faq.html"
+    },
+    {
+        "url": "https://rbi.org.in/Scripts/FAQView.aspx?Id=65",
+        "kind": "html",
+        "filename": "rbi_rtgs_faq.html"
+    },
+    {
+        "url": "https://www.npci.org.in/what-we-do/upi/upi-faqs",
+        "kind": "html",
+        "filename": "npci_upi_faq.html"
     }
 ]
