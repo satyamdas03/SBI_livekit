@@ -1,10 +1,9 @@
 {
     "sip_trunk_id": "ST_JCGthUuABqUQ",
+    "sip_number": "+918035317047",
     "sip_call_to": "+919831431656",
     "room_name": "sbi-outbound-test",
-    "participant_identity": "callee-9831431656",
-    "participant_name": "Outbound Callee",
-    "sip_number": "+918035317047",
-    "krisp_enabled": true,
+    "participant_identity": "outbound-callee",
+    "participant_name": "SBI Outbound",
     "wait_until_answered": true
 }
